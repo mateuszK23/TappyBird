@@ -1,7 +1,7 @@
 # TappyBird
 This is a 2d game made in Unity where the goal is to jump through as many obstacles as possible.
 
-As it is against Unity's EULA to post unity assets online, this repository contains only game's source code(under Assets/Scripts) that was written by me as well as project settings files.
+To correctly open the project in Unity, downloading assets is necessary, they are not included in this repository as it is against Unity's EULA.
 
 Gameplay online available at: https://mateuszk23.itch.io/flappy-bird-clone
 
